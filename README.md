@@ -1,4 +1,4 @@
-# nutrient_checker_v2-vue.js
+# nutrient_checker-vue.js
 
 ## Project setup
 ```
